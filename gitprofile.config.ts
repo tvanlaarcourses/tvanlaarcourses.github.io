@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'This is a poster of my research',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/tvanlaarcourses/tvanlaarcourses.github.io/raw/main/posterscreenshot.pdf',
           link: 'https://example.com',
         },
         {
