@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'This is a poster of my research',
           imageUrl:
-            'https://github.com/tvanlaarcourses/tvanlaarcourses.github.io/raw/main/posterscreenshot.pdf',
+            'https://github.com/tvanlaarcourses/tvanlaarcourses.github.io/raw/main/posterscreenshot.jpg',
           link: 'https://github.com/tvanlaarcourses/tvanlaarcourses.github.io/raw/main/posterscreenshot.pdf',
         },
         {
