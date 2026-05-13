@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'tvanlaar',
+    linkedin: 'triciavanlaar',
     x: '',
     mastodon: '',
     researchGate: '',
